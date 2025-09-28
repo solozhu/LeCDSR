@@ -4,13 +4,14 @@ The implementation of the paper:
 
 Shuliang Wang, Jiabao Zhu, Kaibo Wang, Sijie Ruan, "**LeCDSR: Large Language Model Enhanced Cross-Domain Sequential Recommendation**", in the Information Fusion.
 
-paper link:  [](https://doi.org/10.1016/j.inffus.2025.103762)
+paper link:  [https://doi.org/10.1016/j.inffus.2025.103762](https://doi.org/10.1016/j.inffus.2025.103762)
 
 Contact: jiabao@bit.edu.cn
 
 Feel free to send me an email if you have any questions.
 
 Please cite our paper if you find our code useful. Thanks!
+
 Bibtex
 
 ```
@@ -44,5 +45,6 @@ Train and evaluate the model (you are strongly recommended to run the program on
 python main.py
 
 `demo.ipynb` is a demo to evaluate what exactly the model outputs. After training a model, you can load the parameters and trace back to the text item description.
+
 
 
